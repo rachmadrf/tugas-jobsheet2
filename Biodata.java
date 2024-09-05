@@ -1,4 +1,4 @@
-public class Biodata2 {
+public class Biodata {
 
     public static void main(String[] args) {
 
